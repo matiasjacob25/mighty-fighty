@@ -1,10 +1,5 @@
 ##################################################################### 
 # 
-# CSCB58 Winter 2022 Assembly Final Project 
-# University of Toronto, Scarborough 
-# 
-# Student: Name: Jacob Matias, StudentID: 1007362612 , UTorID: matiasj3, official email: jacob.matias@mail.utoronto.ca 
-# 
 # Bitmap Display Configuration: 
 # - Unit width in pixels: 8 
 # - Unit height in pixels: 8 
