@@ -1,7 +1,7 @@
 # 🖥️ MIPS Assembly Final Project
 
 This repository contains my **MIPS Assembly final project**.  
-The project demonstrates my understanding of low-level programming concepts and MIPS assembly language.
+The project demonstrates my understanding of low-level programming concepts, MIPS assembly language and a little bit of game design :).
 
 **Video Demo:**  
 You can watch a full walkthrough and demo of the project on my YouTube channel:  
